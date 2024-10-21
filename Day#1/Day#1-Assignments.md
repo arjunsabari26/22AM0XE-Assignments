@@ -66,6 +66,8 @@
 ***
 
 #### #8 Create a LinkedIn account with personal mail ID
-> Add your answer here!
+> https://www.linkedin.com/in/arjun-sabari-g-884390334/
+> ![image](https://github.com/user-attachments/assets/09b250fb-119f-49b0-8747-b7be4493a99e)
+
 
 ***
