@@ -52,10 +52,9 @@
 ***
 
 #### #6 Which products or applications are hosted on the following cloud platforms, and could you also provide their logos and relevant details? 
-- For example:
-- Amazon Prime (Hosted on AWS)
-  - Logo: Place the logo here
-  - Details: A popular streaming service offering a vast collection of movies, TV shows, and exclusive content to users worldwide.
+![image](https://github.com/user-attachments/assets/d88b1068-1a05-411d-a106-477bbd367694)
+![image](https://github.com/user-attachments/assets/61a3c9c8-bba1-4c6d-8965-a38267bb77fe)
+
 
 > Add your answer here!
 
