@@ -43,7 +43,8 @@
 ***
 
 #### #3 Provide a basic example of using Google Colab by following the given steps
-> Add your answer here!
+> ![image](https://github.com/user-attachments/assets/1dbf2d3e-2db2-4658-b34e-69ad7d515362)
+
 > - Create a new Google Colab notebook.
 > - Write Python code to print "Hello, World!" in the notebook.
 > - Import the NumPy library and create a 2x2 matrix, then print it.
@@ -57,7 +58,9 @@
   - Logo: Place the logo here
   - Details: A popular streaming service offering a vast collection of movies, TV shows, and exclusive content to users worldwide.
 
-> Add your answer here!
+> ![image](https://github.com/user-attachments/assets/d88b1068-1a05-411d-a106-477bbd367694)
+![image](https://github.com/user-attachments/assets/61a3c9c8-bba1-4c6d-8965-a38267bb77fe)
+
 
 ***
 
